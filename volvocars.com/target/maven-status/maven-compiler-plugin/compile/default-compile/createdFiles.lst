@@ -1,0 +1,12 @@
+com\application\testscenarios\HomePageScenarios.class
+com\application\utils\commonmethods\CommonMethods.class
+com\application\screens\web\HomePage.class
+com\application\testsuite\testdata\factory\TestDataReader.class
+com\application\utils\annotations\TestData.class
+com\application\testsuite\app\yourtestcases\TC_01.class
+com\application\utils\drivers\factory\WebDriverFactory.class
+com\application\testsuite\base\UIAutomationBaseTestClass.class
+com\application\testsuite\testdata\web\beans\TestBean1.class
+com\application\utils\annotations\Test.class
+com\application\testsuite\testdata\factory\JsonTestDataReader.class
+com\application\testsuite\testdata\factory\TestDataReaderFactory.class
